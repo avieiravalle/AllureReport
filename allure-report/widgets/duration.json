@@ -1,0 +1,11 @@
+[ {
+  "uid" : "d7fd6038c25bc55b",
+  "name" : "should add a todo",
+  "time" : {
+    "start" : 1561134356813,
+    "stop" : 1561134370965,
+    "duration" : 14152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

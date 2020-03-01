@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should add a todo",
+    "uid" : "d7fd6038c25bc55b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1561134356813,
+      "stop" : 1561134370965,
+      "duration" : 14152
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ]
+}

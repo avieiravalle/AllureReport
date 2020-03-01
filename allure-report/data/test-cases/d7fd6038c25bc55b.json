@@ -1,0 +1,101 @@
+{
+  "uid" : "d7fd6038c25bc55b",
+  "name" : "should add a todo",
+  "fullName" : "angularjs homepage todo list.should add a todo",
+  "historyId" : "9304ad3ed4d1cd88464866ff880f111d",
+  "time" : {
+    "start" : 1561134356813,
+    "stop" : 1561134370965,
+    "duration" : 14152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "152a47a6bb3c444",
+      "name" : "Screenshot",
+      "source" : "152a47a6bb3c444.png",
+      "type" : "image/png",
+      "size" : 161592
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testClass",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a todo"
+  }, {
+    "name" : "package",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e4a77729acc4a459",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561133594186,
+        "stop" : 1561133608349,
+        "duration" : 14163
+      }
+    }, {
+      "uid" : "f583d57b5c4965bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560815900817,
+        "stop" : 1560815919064,
+        "duration" : 18247
+      }
+    }, {
+      "uid" : "e366e3047340e285",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560814567631,
+        "stop" : 1560814579898,
+        "duration" : 12267
+      }
+    }, {
+      "uid" : "1f0dac6997b41b10",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1560814422786,
+        "stop" : 0,
+        "duration" : -1560814422786
+      }
+    }, {
+      "uid" : "2b989d8c78d2ecc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560814422786,
+        "stop" : 1560814435403,
+        "duration" : 12617
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7fd6038c25bc55b.json",
+  "parameterValues" : [ ]
+}

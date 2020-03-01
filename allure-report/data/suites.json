@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "angularjs homepage todo list",
+    "children" : [ {
+      "name" : "should add a todo",
+      "uid" : "d7fd6038c25bc55b",
+      "parentUid" : "12fb82178ac33242432ef3948bab9734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561134356813,
+        "stop" : 1561134370965,
+        "duration" : 14152
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "12fb82178ac33242432ef3948bab9734"
+  } ]
+}

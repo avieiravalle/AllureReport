@@ -1,0 +1,18 @@
+{
+  "name": "allurereport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.js",
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.9.0"
+  },
+  "scripts": {
+    "test": "protractor",
+    "posttest": "allure generate allure-results --clean -o allure-report || false"
+  },
+  "author": "Anderson Vieira",
+  "license": "ISC"
+}
